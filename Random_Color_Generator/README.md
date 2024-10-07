@@ -1,0 +1,1 @@
+A colour generator generate rgb colour when the button clicked.
