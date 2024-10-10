@@ -1,0 +1,56 @@
+.async {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #c073b7;
+}
+
+.changC {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#cBox {
+    width: 25rem;
+    height: 7rem;
+    border: 2px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#note {
+    font-weight: 600;
+}
+
+#color {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500;
+}
+
+#result {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 700;
+}
+
+button {
+    background-color: #94618e;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0.8rem;
+}
+
+button:active {
+    transform: translateY(2px);
+}
